@@ -712,8 +712,8 @@ video {
 
 @media (min-width: 768px) {
   .board-container {
-    height: 28rem;
-    width: 28rem;
+    height: 26rem;
+    width: 26rem;
   }
 }
 
