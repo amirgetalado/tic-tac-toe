@@ -85,4 +85,8 @@ const TicTacToe = (() => {
       return btn.innerText.includes(playerX) || btn.innerText.includes(playerO);
     });
   }
+
+  return {
+    startgame,
+  };
 })();
